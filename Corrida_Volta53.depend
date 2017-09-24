@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1506212922 source:c:\users\vini\desktop\linguagem c - unip\exercicios\corrida_volta53\main.c
+	<locale.h>
+	<stdio.h>
+	<stdlib.h>
+
