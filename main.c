@@ -9,9 +9,6 @@ int main()
     int tempo[MAX],somaTempo =0,nVoltas,mediaTempo;
     int melhorVolta,i,melhorTempo;
 
-
-
- 
     // Entrada de dados inserida pelo usuário correspondente ao número total de voltas
     printf("\nDigite o número de voltas: ");
     scanf("%d",&nVoltas);
@@ -42,9 +39,6 @@ int main()
      printf("\nO melhor tempo foi : %d segundos\n",melhorTempo);
      printf("\nA média do tempo foi : %d segundos",mediaTempo);
       printf("\n-------------------------------\n");
-
-
-
 
     return 0;
 
